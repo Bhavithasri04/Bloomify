@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="day_sun">S</string>
+    <string name="day_mon">M</string>
+    <string name="day_tue">T</string>
+    <string name="day_wed">W</string>
+    <string name="day_thu">T</string>
+    <string name="day_fri">F</string>
+    <string name="day_sat">S</string>
+    <string name="routine_title">Routine Title</string>
+    <string name="routine_time">Routine Time</string>
+    <string name="schedule_type">Schedule Type</string>
+    <string name="habit_label">Habit :</string>
+    <string name="time_label">Time :</string>
+    <string name="routine_label">Routine :</string>
+    <string name="select_time_hint">Select Time</string>
+    <string name="select_date_hint">Select Date</string>
+    <string name="reminder_text">Want Reminder?</string>
+    <string name="save_button_text">Save</string>
+</resources>
