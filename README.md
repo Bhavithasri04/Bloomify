@@ -5,7 +5,6 @@
 ![Platform](https://img.shields.io/badge/Platform-Android-green.svg)
 ![Language](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Database](https://img.shields.io/badge/Database-SQLite-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)
 
 Bloomify is a native Android application designed to help users build and maintain productive habits through an intuitive and motivating interface. Developed using Java in Android Studio, this app serves as a personal companion for anyone looking to stay consistent with their personal goals.
 
